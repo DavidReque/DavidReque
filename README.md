@@ -1,4 +1,4 @@
-## Hi there 👋, I'm David Requeno
+## Hi there , I'm David Requeno 👋
 
 <!--
 **DavidReque/DavidReque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
