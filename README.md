@@ -3,9 +3,6 @@
 ### 📊 GitHub Stats
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidReque&show_icons=true&theme=dark&count_private=true)
 
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DavidReque&theme=darkhub&no-frame=true&margin-w=15)
-
 ### 💻 Most Used Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReque&layout=compact&theme=dark)
 
