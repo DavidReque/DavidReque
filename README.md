@@ -1,16 +1,10 @@
 ## Hi there 🥷, I'm David Requeno
 
-### 📊 GitHub Stats
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavidReque&show_icons=true&theme=dark&count_private=true)
-
 ### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReque&layout=compact&theme=dark)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidReque&layout=compact&theme=dark&count_private=true&include_all_commits=true&hide=html,css&exclude_repo=repo-no-deseado&langs_count=8)
 ### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DavidReque&theme=dark)
 
-### 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DavidReque&theme=react-dark)
 
 ---
 <!-- 
