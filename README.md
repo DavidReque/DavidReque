@@ -1,6 +1,5 @@
-<!-- 
-## Hi there 🥷, I'm David Requeno
-
+ ## Hi there 🥷, I'm David Requeno
+<!--
 ### 📊 Language Distribution
 ![Language Stats](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DavidReque&theme=github_dark)
 ![Commit Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DavidReque&theme=github_dark)
